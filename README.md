@@ -218,7 +218,6 @@ The application uses the SQLite database file located at `database/levelup.db`.
 
 | Class / Component | File | Role |
 |---|---|---|
-| `Page` | `core/page.py` | Provides shared functionality for application pages |
 | `Service` | `core/service.py` | Provides shared application services |
 | `Theme` | `core/theme.py` | Holds the application's colors, fonts, and styling |
 | `Widgets` | `core/widgets.py` | Provides reusable custom UI widgets |
